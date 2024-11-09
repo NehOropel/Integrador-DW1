@@ -1,0 +1,7 @@
+#sh {
+    width: auto;
+    height: 512px;
+    display: flex;
+    background: linear-gradient(#0000004d, #0000004d),  url(/public/img/segurohogar.jpg);
+    background-size: cover;
+}
